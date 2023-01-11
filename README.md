@@ -5,7 +5,7 @@ Netflix is an American subscription video streaming service that allows users to
 
 [Dataset](https://www.kaggle.com/datasets/ariyoomotadenetflix-data-cleaning-analysis-and-visualization)
 
-## Key Findings ✨    
+## Key Findings ⭐    
 * The United States, India, and United Kingdom produce the most movies and TV shows in comparison to the rest of the world. 
 * The top 3 Netflix genres include Dramas & International Movies, Documentaries, and Stand-Up Comedy. 
 * The most common ratings amongst Netflix movies and TV shows is TV-MA, followed by TV-14 and TV-PG.
